@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Advanced.iml" filepath="$PROJECT_DIR$/Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/les1/les1.iml" filepath="$PROJECT_DIR$/les1/les1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les2/les2.iml" filepath="$PROJECT_DIR$/les2/les2.iml" />
     </modules>
   </component>
 </project>
